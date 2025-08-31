@@ -83,6 +83,7 @@ The world of stock market investing can be intimidating for newcomers.
    - Screens displayed based on the active tab: Home, Learn, Profile, Trade.  
 
 ---
+## 📂 Project Structure  
 /
 ├── components/
 │   ├── icons.tsx               # Reusable SVG icons
