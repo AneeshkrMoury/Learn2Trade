@@ -1,0 +1,5 @@
+{
+  "name": "Learn2Trade",
+  "description": "An application to educate users on stock market fundamentals through interactive tutorials and quizzes, and provides a risk-free virtual trading simulator.",
+  "requestFramePermissions": []
+}

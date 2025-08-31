@@ -1,0 +1,2 @@
+
+export const INITIAL_VIRTUAL_CASH = 1000000;
