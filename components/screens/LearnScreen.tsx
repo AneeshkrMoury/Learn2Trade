@@ -4,6 +4,10 @@ import { TutorialModule, Quiz, UserProgress, ContentBlock } from '../../types';
 import { tutorialModules, quizzes } from '../../data/mockData';
 import { LightbulbIcon, ChecklistIcon, ChartBarIcon } from '../icons';
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 5821c01 (Update project: Vite config, global CSS, Netlify support)
 type TFunction = (key: string, replacements?: { [key: string]: string | number }) => string;
 
 
